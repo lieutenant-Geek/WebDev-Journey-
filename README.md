@@ -1,6 +1,6 @@
 # 🌐 Web Dev Journey: From Zero to Full Stack Hero
 
-Welcome to my daily quest through the world of Web Development! This repo documents my learning path, practice projects, and progress from absolute beginner to confident full-stack developer—with the ultimate goal of securing a high-impact internship and landing a ₹10+ LPA job in tech.
+Welcome to my daily quest through the world of Web Development! This repo documents my learning path, practice projects, and progress from absolute beginner to confident full-stack developer—with the ultimate goal of securing a high-impact internship and landing a job in tech.
 
 ---
 
